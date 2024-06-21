@@ -9,4 +9,4 @@
 - Video 3 [KLIK DISINI](https://youtu.be/fUJl9naUwJk?si=2StP2v7OHd_DeEqb)
 
 ## Laporan Analisa Kebutuhan Sistem
-- Laporan [KLIK DISINI]()
+- Laporan [KLIK DISINI](https://drive.google.com/file/d/16ruiz_JYRiM8xhBAQXM5gtQfIZvPl1QV/view?usp=drivesdk)
